@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment variables & local configuration
+.env
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# YOLO weights (downloaded automatically by Ultralytics if missing)
+*.pt
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/

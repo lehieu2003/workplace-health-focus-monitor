@@ -1,0 +1,8 @@
+opencv-python>=4.8.0
+mediapipe>=0.10.0,<0.11.0
+ultralytics>=8.0.0
+numpy>=1.23.0
+pytest>=7.0.0
+rumps>=0.4.0
+pyobjc-framework-Cocoa>=11.0
+
